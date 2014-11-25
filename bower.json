@@ -1,0 +1,23 @@
+{
+  "name": "commentsearcher",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Burgess <matt@myclient.info>"
+  ],
+  "description": "Searches comments",
+  "license": "MIT",
+  "homepage": "commentsearcher.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "font-awesome": "~4.2.0"
+  }
+}
